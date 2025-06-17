@@ -1,4 +1,4 @@
-# Schema Designer Pro
+# Schema Designer 
 
 > **数据模式设计专业版** - A professional schema design and JSON generation tool with minimalist German/Nordic design aesthetic.
 
