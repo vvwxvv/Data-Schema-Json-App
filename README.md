@@ -349,67 +349,14 @@ Create `config.json` in the application directory:
 }
 ```
 
-## Troubleshooting
-
-### Common Issues
-
-#### Application Won't Start
-- **Check Python version**: Ensure Python 3.8+ is installed
-- **Verify PyQt5**: Install with `pip install PyQt5`
-- **Virtual environment**: Activate the virtual environment
-
-#### Import Errors
-- **Dependencies**: Run `pip install -r requirements.txt`
-- **Path issues**: Ensure you're in the correct directory
-- **Python path**: Check PYTHONPATH environment variable
-
-#### UI Issues
-- **Display scaling**: Adjust system display scaling
-- **Font rendering**: Install required system fonts
-- **Theme issues**: Reset to default theme
-
-#### Data Loss
-- **Auto-save**: Check auto-save is enabled
-- **File permissions**: Ensure write permissions to data directory
-- **Backup**: Regular backups of schema data
-
-### Logging
-
-Enable debug logging by setting the log level:
-
-```python
-import logging
-logging.basicConfig(level=logging.DEBUG)
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-
-### Getting Help
-
-- **Documentation**: Check this README and inline code comments
-- **Issues**: Report bugs and feature requests on GitHub
-- **Discussions**: Use GitHub Discussions for questions
-- **Email**: Contact maintainers for direct support
-
-### Community
-
-- **Contributors**: See [CONTRIBUTORS.md](CONTRIBUTORS.md)
-- **Changelog**: See [CHANGELOG.md](CHANGELOG.md)
-- **Roadmap**: See [ROADMAP.md](ROADMAP.md)
-
-## Acknowledgments
-
-- **PyQt5**: Qt framework for Python
-- **Design Inspiration**: German/Nordic minimalist design principles
-- **Community**: Contributors and users who provide feedback
 
 ---
 
-**Schema Designer Pro** - Professional schema design made simple.
+**Schema Designer** - Professional schema design made simple.
 
 *Built with dedication for the developer community*
 
