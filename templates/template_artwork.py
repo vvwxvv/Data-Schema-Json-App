@@ -42,7 +42,6 @@ class ArtworkTemplate(BaseTemplate):
             TemplateVariable("introduction", "Introduction", "介绍", 4),
             TemplateVariable("work_value", "Work Value", "价格", 1),
             TemplateVariable("version", "version", "版数", 1),
-            TemplateVariable("tag", "Tag", "标签", 1),
             TemplateVariable("mark", "Mark", "标记", 1),
             TemplateVariable("order", "Order", "排序", 1),
         ]
